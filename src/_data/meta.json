@@ -1,0 +1,10 @@
+{
+	"title": "TEAstack Template",
+	"description": "Use this TEAstack (TailwindCSS, 11ty, Alpine.js) template to quickly spin up a small website project.",
+	"author": "Shane Robinson",
+	"image": "/assets/images/meta/default.png",
+	"lang": "en",
+	"locale": "en_us",
+	"twitterSite": "@shanerobinson",
+  "twitterCreator": "@shanerobinson"
+}
